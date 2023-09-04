@@ -2,6 +2,10 @@
 title: 'The case for fewer environments'
 date: 2021-03-22T00:00:00-04:00
 draft: false
+tags:
+    - coding
+    - devops
+    - product
 ---
 
 At Webera, we strive to build the underlying technology which supports innovation. Our team provides DevOps as a Service, a small group of two DevOps/SRE Engineers, a DevOps Architect, and a Scrum Master.

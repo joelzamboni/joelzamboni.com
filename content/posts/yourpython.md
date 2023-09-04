@@ -2,6 +2,9 @@
 title: 'Keep Python for yourself'
 date: 2021-10-24T00:00:00-04:00
 draft: false
+tags:
+    - coding
+    - python
 ---
 
 We often want to use Python utilities like black or newer pip versions. But we don’t necessarily contaminate our OS or other virtual environments.

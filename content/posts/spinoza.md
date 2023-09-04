@@ -2,9 +2,11 @@
 title: 'God of Spinoza'
 date: 2023-02-06T00:00:00-04:00
 draft: false
+tags:
+    - religion
 ---
 
-I am a nerd 🙂 But I am fascinated with philosophy, and sometimes I write philosophical things. Baruch Spinoza wrote this text, and for some reason, I just learned about it today. It seems Einstein also used it as his own God definition.
+I am a nerd 🙂 But I am fascinated with religion, not in a dogmatic way, and sometimes I write philosophical things. Baruch Spinoza wrote this text, and for some reason, I just learned about it today. It seems Einstein also used it as his own God definition.
 
 God would have said:
 
