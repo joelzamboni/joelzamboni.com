@@ -1,0 +1,31 @@
+---
+name: Deploy joelzamboni.com to Firebase
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  build_and_deploy:
+    name: Personal Website Deployment
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout website'
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.117.0'
+          # extended: true
+      - name: Build
+        run: hugo --minify
+      - name: Deploy website
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_JOEL_ZAMBONI }}'
+          channelId: live
+          projectId: joel-zamboni

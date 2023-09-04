@@ -1,0 +1,55 @@
+---
+baseURL: 'https://joelzamboni.com/'
+languageCode: 'en-us'
+title: 'Experimenting'
+theme: 'PaperMod'
+paginate: 5
+
+enableRobotsTXT: true
+# googleAnalytics: 
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+taxonomies:
+  tag: tags
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 10
+
+params:
+  env: production
+  author: Joel Zamboni
+  sectionPagesMenu: main
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  homeInfoParams:
+    Title: 
+    Content: Welcome to my personal blog, which I not always write about my business or work, but other hobies like politics, phylosophy, and religion!
+
+  socialIcons:
+    - name: twitter
+      url: https://twitter.com/joelzamboni
+    - name: instagram
+      url: https://www.instagram.com/joelzamboni/
+    - name: youtube
+      url: https://www.youtube.com/@joelzamboni
+    - name: rss
+      url: index.xml
+
