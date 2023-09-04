@@ -41,7 +41,7 @@ params:
   ShowRssButtonInSectionTermList: true
   homeInfoParams:
     Title: 
-    Content: Welcome to my personal blog, which I not always write about my business or work, but other hobies like politics, phylosophy, and religion!
+    Content: Welcome to my blog, which I do not always write about my business or work, but other hobbies like politics, philosophy, and religion!
 
   socialIcons:
     - name: twitter
