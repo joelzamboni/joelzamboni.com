@@ -1,6 +1,6 @@
 ---
 title: 'Should DevOps be Rebranded as “Platform Engineering”?'
-date: 2023-07-17T00:00:00-04:00
+date: 2022-07-17T00:00:00-04:00
 draft: false
 tags:
     - coding
