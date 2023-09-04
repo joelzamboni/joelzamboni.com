@@ -25,4 +25,9 @@ python -m venv .venv
 ```
 Now you need to add to your .bashrc script the following lines:
 
+```
+export VIRTUAL_ENV_DISABLE_PROMPT=1
+source ~/.venv/bin/activate
+```
+
 Now, after reloading your .bashrc file, or logout and login in again. All the Python commands will point to the ones in your home directory.
