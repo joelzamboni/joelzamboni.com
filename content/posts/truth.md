@@ -1,5 +1,5 @@
 ---
-title: "Separating Science and Religion: A Matter of Language and Perspective"
+title: "Truth vs. True"
 date: 2023-12-29T00:00:00-04:00
 draft: false
 tags:
@@ -9,7 +9,7 @@ tags:
 
 In our journey to comprehend the world, our words are not just communication tools but also shape our perception. Particularly in science and philosophy, terms like "true" and "Truth" often intertwine, yet their meanings diverge significantly. Understanding this divergence can revolutionize how we approach knowledge.
 
-## True in Science vs. Truth in Religion and Philosophy
+## True in Science and Truth in Religion
 
 The term "true" in science refers to statements or theories that align with observed facts and empirical evidence. It's a testament to the provisional nature of scientific knowledge — always open to revision and refinement. In contrast, "Truth" in philosophical or existential contexts delves into absolute, often unquantifiable realms. It seeks answers to the 'bigger' questions of life, morality, and existence.
 
