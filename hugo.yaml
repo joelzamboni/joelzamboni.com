@@ -43,8 +43,7 @@ params:
   ShowRssButtonInSectionTermList: true
   homeInfoParams:
     Title: 
-    Content: Welcome to my blog, which I do not always write about my business or work, but other hobbies like politics, philosophy, and religion!
-
+    Content: Welcome to my blog, which I do not always write about my business or work, but other hobbies like politics, philosophy, and religion! The publication dates are a reference for when the texts were made available, but I keep updating them as I continue to go deep into the subjects.
   socialIcons:
     - name: twitter
       url: https://twitter.com/joelzamboni
