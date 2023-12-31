@@ -1,5 +1,5 @@
 ---
-title: 'Autocracies and Democracies'
+title: 'Autocracies vs. Democracies'
 date: 2023-07-17T00:00:00-04:00
 draft: false
 tags:
