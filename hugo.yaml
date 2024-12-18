@@ -3,7 +3,8 @@ baseURL: 'https://joelzamboni.com/'
 languageCode: 'en-us'
 title: 'Keep Learning'
 theme: 'PaperMod'
-paginate: 5
+pagination:
+  pagerSize: 5
 
 enableRobotsTXT: true
 # googleAnalytics: 
