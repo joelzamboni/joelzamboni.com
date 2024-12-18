@@ -3,8 +3,6 @@ baseURL: 'https://joelzamboni.com/'
 languageCode: 'en-us'
 title: 'Keep Learning'
 theme: 'PaperMod'
-pagination:
-  pagerSize: 5
 
 enableRobotsTXT: true
 # googleAnalytics: 
@@ -15,6 +13,9 @@ minify:
 
 taxonomies:
   tag: tags
+
+pagination:
+  pagerSize: 5
 
 outputs:
   home:
@@ -54,4 +55,3 @@ params:
       url: https://www.youtube.com/@joelzamboni
     - name: rss
       url: index.xml
-
