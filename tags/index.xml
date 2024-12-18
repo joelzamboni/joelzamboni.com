@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Keep Learning</title>
+    <link>https://joelzamboni.com/tags/</link>
+    <description>Recent content in Tags on Keep Learning</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://joelzamboni.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philosophy</title>
+      <link>https://joelzamboni.com/tags/philosophy/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>https://joelzamboni.com/tags/politics/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/tags/politics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Religion</title>
+      <link>https://joelzamboni.com/tags/religion/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/tags/religion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>https://joelzamboni.com/tags/coding/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops</title>
+      <link>https://joelzamboni.com/tags/devops/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://joelzamboni.com/tags/python/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product</title>
+      <link>https://joelzamboni.com/tags/product/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/tags/product/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

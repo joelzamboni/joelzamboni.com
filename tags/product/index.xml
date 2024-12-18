@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Product on Keep Learning</title>
+    <link>https://joelzamboni.com/tags/product/</link>
+    <description>Recent content in Product on Keep Learning</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://joelzamboni.com/tags/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The case for fewer environments</title>
+      <link>https://joelzamboni.com/posts/fewerenvironments/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/posts/fewerenvironments/</guid>
+      <description>&lt;p&gt;At Webera, we strive to build the underlying technology which supports innovation. Our team provides DevOps as a Service, a small group of two DevOps/SRE Engineers, a DevOps Architect, and a Scrum Master.&lt;/p&gt;
+&lt;p&gt;A DevOps team’s objective is to help the developers get their code to the end-users as fast, safely, and stable as possible. We use automation, infrastructure as code, testing tools, vulnerability assessment, lots of monitoring software, pipelines, ticketing systems, office hours, and many other tools to perform this task.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

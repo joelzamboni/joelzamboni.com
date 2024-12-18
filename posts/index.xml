@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Keep Learning</title>
+    <link>https://joelzamboni.com/posts/</link>
+    <description>Recent content in Posts on Keep Learning</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://joelzamboni.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Truth vs. True</title>
+      <link>https://joelzamboni.com/posts/truth/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/posts/truth/</guid>
+      <description>&lt;h2 id=&#34;the-interplay-of-language-in-understanding&#34;&gt;The Interplay of Language in Understanding&lt;/h2&gt;
+&lt;p&gt;In our journey to comprehend the world, our words are not just communication tools but also shape our perception. Particularly in science and philosophy, terms like &amp;ldquo;true&amp;rdquo; and &amp;ldquo;Truth&amp;rdquo; often intertwine, yet their meanings diverge significantly. Understanding this divergence can revolutionize how we approach knowledge.&lt;/p&gt;
+&lt;h2 id=&#34;true-in-science-and-truth-in-religion&#34;&gt;True in Science and Truth in Religion&lt;/h2&gt;
+&lt;p&gt;The term &amp;ldquo;true&amp;rdquo; in science refers to statements or theories that align with observed facts and empirical evidence. It&amp;rsquo;s a testament to the provisional nature of scientific knowledge — always open to revision and refinement. In contrast, &amp;ldquo;Truth&amp;rdquo; in philosophical or existential contexts delves into absolute, often unquantifiable realms. It seeks answers to the &amp;lsquo;bigger&amp;rsquo; questions of life, morality, and existence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autocracies vs. Democracies</title>
+      <link>https://joelzamboni.com/posts/democracy/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/posts/democracy/</guid>
+      <description>&lt;p&gt;When contrasting autocracies and democracies, one navigates a maze of socio-political intricacies. Both systems exhibit merits and demerits, and the discourse is often controversial. This article probes a nuanced theory suggesting that autocracies can foster economic success under favorable conditions, but their potency wanes as the initial autocratic structure disintegrates. Meanwhile, democracy offers a convoluted and time-consuming process toward the same economic expansion. Still, its approach potentially ensures sustainable, long-term success, and most importantly, it allows the respect of each consciousness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>God of Spinoza</title>
+      <link>https://joelzamboni.com/posts/spinoza/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/posts/spinoza/</guid>
+      <description>&lt;p&gt;I am a nerd 🙂 But I am fascinated with religion, not in a dogmatic way, and sometimes I write philosophical things. Baruch Spinoza wrote this text, and for some reason, I just learned about it today. It seems Einstein also used it as his own God definition.&lt;/p&gt;
+&lt;p&gt;God would have said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Stop being praying and giving you blows in the chest. What I want you to do is to go out into the world to enjoy your life.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Should DevOps be Rebranded as “Platform Engineering”?</title>
+      <link>https://joelzamboni.com/posts/platformengineering/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/posts/platformengineering/</guid>
+      <description>&lt;p&gt;DevOps brings applications and product development closer to operations to shorten the feedback loop and speed up its processes. But what if we rebranded DevOps as “platform engineering”? This rebranding would be a more accurate description of what DevOps practitioners do, and it would help clarify the role of DevOps engineers. This post will explore the benefits of rebranding DevOps as “platform engineering” and discuss some possible objections. Please, join in the comments section below. I would love to hear what you have to say about it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keep Python for yourself</title>
+      <link>https://joelzamboni.com/posts/yourpython/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/posts/yourpython/</guid>
+      <description>&lt;p&gt;We often want to use Python utilities like black or newer pip versions. But we don’t necessarily contaminate our OS or other virtual environments.&lt;/p&gt;
+&lt;p&gt;A suggestion is to use a virtual environment and load it on your login without changing your shell prompt (PS1). Here is how I do on my Ubuntu.&lt;/p&gt;
+&lt;p&gt;First, you have to make sure you have the basic development packages and Python modules:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install -y \
+  build-essential \
+  python3-dev \
+  python3-pip \
+  python3-venv
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Then you can create your Python virtual environment&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The case for fewer environments</title>
+      <link>https://joelzamboni.com/posts/fewerenvironments/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/posts/fewerenvironments/</guid>
+      <description>&lt;p&gt;At Webera, we strive to build the underlying technology which supports innovation. Our team provides DevOps as a Service, a small group of two DevOps/SRE Engineers, a DevOps Architect, and a Scrum Master.&lt;/p&gt;
+&lt;p&gt;A DevOps team’s objective is to help the developers get their code to the end-users as fast, safely, and stable as possible. We use automation, infrastructure as code, testing tools, vulnerability assessment, lots of monitoring software, pipelines, ticketing systems, office hours, and many other tools to perform this task.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Devops on Keep Learning</title>
+    <link>https://joelzamboni.com/tags/devops/</link>
+    <description>Recent content in Devops on Keep Learning</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://joelzamboni.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Should DevOps be Rebranded as “Platform Engineering”?</title>
+      <link>https://joelzamboni.com/posts/platformengineering/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/posts/platformengineering/</guid>
+      <description>&lt;p&gt;DevOps brings applications and product development closer to operations to shorten the feedback loop and speed up its processes. But what if we rebranded DevOps as “platform engineering”? This rebranding would be a more accurate description of what DevOps practitioners do, and it would help clarify the role of DevOps engineers. This post will explore the benefits of rebranding DevOps as “platform engineering” and discuss some possible objections. Please, join in the comments section below. I would love to hear what you have to say about it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The case for fewer environments</title>
+      <link>https://joelzamboni.com/posts/fewerenvironments/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 -0400</pubDate>
+      <guid>https://joelzamboni.com/posts/fewerenvironments/</guid>
+      <description>&lt;p&gt;At Webera, we strive to build the underlying technology which supports innovation. Our team provides DevOps as a Service, a small group of two DevOps/SRE Engineers, a DevOps Architect, and a Scrum Master.&lt;/p&gt;
+&lt;p&gt;A DevOps team’s objective is to help the developers get their code to the end-users as fast, safely, and stable as possible. We use automation, infrastructure as code, testing tools, vulnerability assessment, lots of monitoring software, pipelines, ticketing systems, office hours, and many other tools to perform this task.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
