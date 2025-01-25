@@ -32,7 +32,7 @@ menu:
 
 params:
   defaultTheme: dark
-  disableThemeToggle: true
+  disableThemeToggle: false
   env: production
   author: Joel Zamboni
   sectionPagesMenu: main
