@@ -132,3 +132,6 @@ dmypy.json
 .vim
 
 public/
+
+.replit
+replit.nix
