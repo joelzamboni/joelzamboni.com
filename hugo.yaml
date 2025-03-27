@@ -31,7 +31,7 @@ menu:
       weight: 10
 
 params:
-  defaultTheme: dark
+  defaultTheme: light
   disableThemeToggle: false
   env: production
   author: Joel Zamboni
