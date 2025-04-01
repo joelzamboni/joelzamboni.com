@@ -1,10 +1,10 @@
 ---
 title: 'The Empathy Deficit: Why the West Needs More Meaningful Compassion, Not Less'
-date: 2025-02-01T00:00:00-04:00
+date: 2025-03-31T00:00:00-04:00
 draft: true
 tags:
-    - religion
-    - philosophy
+    - politics
+    - humanity
 ---
 
 ## Introduction
