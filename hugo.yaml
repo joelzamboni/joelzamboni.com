@@ -5,7 +5,6 @@ title: 'Keep Learning'
 theme: 'PaperMod'
 
 enableRobotsTXT: true
-# googleAnalytics: 
 
 minify:
   disableXML: true
@@ -55,3 +54,7 @@ params:
       url: https://www.youtube.com/@joelzamboni
     - name: rss
       url: index.xml
+
+services:
+  googleAnalytics:
+    id: "G-7GEQ7R8Z32"
