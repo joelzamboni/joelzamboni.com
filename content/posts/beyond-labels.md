@@ -3,7 +3,8 @@ title: 'Beyond Labels: Reimagining Human Unity in the Age of AI'
 date: 2025-05-01T00:00:00-04:00
 draft: false
 tags:
-    - religion
+    - humanity
+    - politics
     - philosophy
 ---
 
