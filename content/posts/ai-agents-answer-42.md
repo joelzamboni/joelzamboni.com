@@ -1,6 +1,6 @@
 ---
 title: 'Why We Need AI Agents: The Answer is Still 42'
-date: 2025-01-29T09:00:00-05:00
+date: 2025-01-29T00:00:00-04:00
 draft: false
 tags:
     - ai
