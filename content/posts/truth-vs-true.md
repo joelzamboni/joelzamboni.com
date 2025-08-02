@@ -5,6 +5,12 @@ draft: false
 tags:
   - philosophy
 ---
+
+> **TLDR:**
+> - "True" in science describes provisional knowledge that aligns with current evidence, while "Truth" implies absolute certainty
+> - Scientific understanding evolves—Newton's gravity was "true" until Einstein showed gravity isn't even a force but curved spacetime
+> - Embracing uncertainty and revision is fundamental to scientific progress, not a weakness
+
 ## The Interplay of Language in Understanding
 
 In our journey to comprehend the world, our words are not just communication tools but also shape our perception. Particularly in science and philosophy, terms like "true" and "Truth" often intertwine, yet their meanings diverge significantly. Understanding this divergence can revolutionize how we approach knowledge.

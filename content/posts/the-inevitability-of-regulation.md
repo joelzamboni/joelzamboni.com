@@ -9,6 +9,11 @@ tags:
     - humanity
 ---
 
+> **TLDR:**
+> - Regulation is inevitable—if democratic institutions don't write the rules, corporations will through their "permission systems"
+> - Current complex regulations favor large companies while crushing small competitors, creating digital feudalism where platforms extract rent from participation
+> - The solution isn't eliminating rules but creating thin, open, transparent protocols like the early internet that enable innovation without permission
+
 **How We Traded Democratic Rules for Corporate Permissions**
 
 Regulation is the landscape, not the weather. Whether you're building an app, writing a newsletter, selling crafts online, or just trying to share your work with the world, you will encounter rules that shape what's possible. If democratic institutions don't write them, the market's largest players will. The question isn't whether we'll have rules—it's who writes them, and whether they serve the many or the few.

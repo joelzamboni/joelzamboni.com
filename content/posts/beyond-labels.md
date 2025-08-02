@@ -8,6 +8,12 @@ tags:
     - philosophy
 ---
 
+> **TLDR:**
+> - Labels like "left/right" or "elite/worker" don't just describe reality—they create and reinforce the divisions we claim to oppose
+> - Inverting our language ("cancer got this person" vs "person has cancer") externalizes conditions rather than making them defining features
+> - AI could amplify collective wisdom without the distorting lens of political categorization, helping us see each other as humans first
+> - Small linguistic shifts can create cascading changes in how we perceive reality and relate to each other
+
 In a world increasingly defined by division, we find ourselves trapped in a paradoxical cycle: the categories we create to understand our society reinforce the divisions we claim to oppose. Left or right, Democrat or Republican, worker or elite, pro-choice or pro-life—these labels don't just describe reality; they actively shape it.
 
 ## The Self-Fulfilling Prophecy of Classification

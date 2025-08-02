@@ -8,6 +8,12 @@ tags:
     - future
 ---
 
+> **TLDR:**
+> - We've industrialized knowledge work into teachable frameworks, making it vulnerable to AI automation—when you can standardize expertise, you've done most of the work needed to automate it
+> - Unlike previous revolutions that automated manual labor, AI is automating knowledge work itself, collapsing entire career progression pathways
+> - The remaining human roles will require managing ambiguity, relationships, and creative problem-solving—skills our education system doesn't prioritize
+> - Success means recognizing this shift early and developing uniquely human capabilities rather than competing with AI on systematized tasks
+
 Every major technological shift creates two types of people: those who cling to the old ways and get swept aside, and those who recognize the change early and position themselves to ride the wave. We're at one of those inflection points now.
 
 We've built an entire economic system around the illusion of complexity. Universities churn out specialists, corporations create elaborate hierarchies of expertise, and we've convinced ourselves that professional work requires years of training and irreplaceable human insight. But what if most of what we call "skilled labor" is just systematized thinking that can be reduced to well-crafted prompts?

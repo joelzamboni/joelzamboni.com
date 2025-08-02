@@ -7,6 +7,12 @@ tags:
     - humanity
 ---
 
+> **TLDR:**
+> - The West's problem isn't "too much empathy" but selective application that prioritizes economic interests over human welfare
+> - Western powers maintain relationships with authoritarian regimes for resource access while ignoring their populations' suffering
+> - True empathy would address root causes of displacement rather than exploiting desperate migrants for cheap labor
+> - Resources exist globally to meet everyone's basic needs—what's lacking is political will, not compassion
+
 ## Introduction
 
 In a recent podcast interview, Elon Musk suggested that "too much empathy" poses a problem for Western societies. This perspective, while provocative, misdiagnoses the actual issue at hand. The real problem isn't an excess of empathy but rather its absence where it matters most. What we witness today is not too much compassion but a selective, inconsistent application of empathetic values—one that prioritizes economic self-interest and geopolitical convenience over genuine human concern.
