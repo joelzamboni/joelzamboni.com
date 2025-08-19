@@ -1,6 +1,6 @@
 ---
 title: "AI Skills for Teens: A Parent's Guide to What Actually Matters"
-date: 2025-08-19T00:00:00-04:00
+date: 2025-08-18T00:00:00-04:00
 draft: false
 tags:
     - ai
