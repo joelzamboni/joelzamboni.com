@@ -2,6 +2,7 @@
 title: 'Contact'
 date: 2025-08-20T00:00:00-04:00
 draft: false
+type: "page"
 description: "Get in touch with Joel Zamboni. Connect via social media or email for discussions about AI, philosophy, politics, and the future of human flourishing."
 ---
 
@@ -13,9 +14,11 @@ I'm always interested in thoughtful conversations about the ideas I explore here
 
 The best way to reach me is through social media:
 
-- **Twitter**: [@joelzamboni](https://twitter.com/joelzamboni) - for quick thoughts and ongoing discussions
-- **Instagram**: [@joelzamboni](https://www.instagram.com/joelzamboni/) - for more personal content and behind-the-scenes
-- **YouTube**: [@joelzamboni](https://www.youtube.com/@joelzamboni) - for longer-form video content
+- **Twitter/X**: [@joelzamboni](https://twitter.com/joelzamboni) - Quick thoughts, AI discussions, and real-time conversations about the future of work
+- **Instagram**: [@joelzamboni](https://www.instagram.com/joelzamboni/) - Personal insights, behind-the-scenes content, and visual storytelling
+- **YouTube**: [@joelzamboni](https://www.youtube.com/@joelzamboni) - In-depth video content on AI, philosophy, and societal change
+
+Follow me across platforms to stay updated on my latest thoughts about AI's impact on society, philosophical explorations, and insights into building a more thoughtful future.
 
 ## Email
 
