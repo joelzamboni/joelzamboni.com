@@ -52,6 +52,7 @@ Every post must begin with YAML frontmatter enclosed in `---`:
 title: 'Your Post Title Here'
 date: 2025-07-21T00:00:00-04:00
 draft: false
+description: "Compelling 150-160 character meta description for SEO and social sharing"
 tags:
     - tag1
     - tag2
@@ -62,6 +63,7 @@ tags:
 - **Title**: Use single quotes around the title
 - **Date**: Use current date in ISO 8601 format with timezone offset (-04:00 for EDT)
 - **Draft**: Set to `false` for published posts, `true` for drafts
+- **Description**: REQUIRED for SEO - write compelling 150-160 character description that includes target keywords
 - **Tags**: Use existing tags when applicable (see below)
 
 ### Available Tags
@@ -90,6 +92,7 @@ Common tags used across the blog:
 title: 'Your Compelling Title Here'
 date: 2025-07-21T00:00:00-04:00
 draft: false
+description: "Hook readers with clear value proposition and target keywords in 150-160 chars"
 tags:
     - relevant-tag-1
     - relevant-tag-2
@@ -124,3 +127,57 @@ Wrap up with a thought-provoking conclusion that synthesizes your points and lea
 - Use analogies and references to popular culture when appropriate
 - Focus on thought-provoking content that challenges conventional thinking
 - Keep paragraphs concise and readable
+
+## SEO Configuration
+
+### Current SEO Setup (Implemented August 2025)
+The site has been fully optimized for search engines with the following implementations:
+
+#### Technical SEO
+- **Production URLs**: `baseURL` configured correctly as `https://joelzamboni.com`
+- **XML Sitemap**: Auto-generated at `/sitemap.xml` on every build
+- **Robots.txt**: Auto-generated, includes sitemap reference
+- **Meta Tags**: All posts have required meta descriptions for SERP optimization
+- **Structured Data**: Schema.org JSON-LD markup for Person/Organization and BlogPosting
+- **Canonical URLs**: Implemented via PaperMod theme
+- **OpenGraph & Twitter Cards**: Social media meta tags for sharing
+
+#### Content SEO
+- **Meta Descriptions**: All posts include 150-160 character descriptions with target keywords
+- **Internal Linking**: Strategic cross-linking between related AI, philosophy, and politics posts
+- **E-E-A-T Signals**: About page with author bio, Contact page, and Privacy Policy
+- **Topic Clusters**: Organized content around main themes (AI, Philosophy, Politics, Religion)
+
+#### Site Structure
+- **Navigation Menu**: About, Tags, Contact pages accessible from header
+- **Essential Pages**: 
+  - `/about/` - Author bio and expertise signals
+  - `/contact/` - Contact information and social links  
+  - `/privacy/` - Privacy policy for trust signals
+- **Tag Organization**: Consistent tagging strategy for content discovery
+
+### SEO Maintenance Guidelines
+
+#### For New Posts
+1. **Always include `description` field** in frontmatter (150-160 characters)
+2. **Add internal links** to related posts within the first few paragraphs
+3. **Use target keywords** naturally in title, description, and headings
+4. **Include TLDR sections** - these often appear in featured snippets
+
+#### For Site Updates
+- **Never change `baseURL`** without redirects - breaks all search rankings
+- **Maintain URL structure** - keep `/posts/post-name/` format for consistency
+- **Update sitemap automatically** - handled by Hugo, no manual intervention needed
+
+#### SEO Monitoring
+- **Google Search Console**: Monitor organic traffic and ranking changes
+- **Core Web Vitals**: Track loading performance via PageSpeed Insights  
+- **Keyword Tracking**: Monitor rankings for target terms like "AI future of work", "philosophy consciousness"
+
+### Key SEO Files
+- `hugo.yaml` - Contains schema configuration, site metadata, and SEO settings
+- `/content/about.md` - Author authority and expertise signals
+- `/content/privacy.md` - Trust and compliance signals
+- Individual post frontmatter - Meta descriptions and keyword targeting
+
+**Note**: Sitemap.xml and robots.txt are auto-generated on every build. Never edit them manually.
