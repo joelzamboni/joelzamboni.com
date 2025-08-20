@@ -40,7 +40,7 @@ menu:
       weight: 15
 
 params:
-  mainSections: ["posts", "pages"]
+  mainSections: ["posts"]
   defaultTheme: light
   disableThemeToggle: false
   env: production
