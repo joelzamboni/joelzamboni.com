@@ -3,6 +3,7 @@ title: 'Contact'
 date: 2025-08-20T00:00:00-04:00
 draft: false
 type: "page"
+url: "/contact/"
 description: "Get in touch with Joel Zamboni. Connect via social media or email for discussions about AI, philosophy, politics, and the future of human flourishing."
 ---
 

@@ -3,6 +3,7 @@ title: 'Privacy Policy'
 date: 2025-08-20T00:00:00-04:00
 draft: false
 type: "page"
+url: "/privacy/"
 description: "Privacy policy for joelzamboni.com. How we collect, use, and protect your data when you visit this blog about AI, philosophy, and human flourishing."
 ---
 
