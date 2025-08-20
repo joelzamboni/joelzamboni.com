@@ -2,6 +2,7 @@
 title: 'The Empathy Deficit: Why the West Needs More Meaningful Compassion, Not Less'
 date: 2025-03-31T00:00:00-04:00
 draft: false
+description: "Why the West's problem isn't too much empathy but selective application. How genuine compassion could address root causes instead of exploiting migration for cheap labor."
 tags:
     - politics
     - humanity

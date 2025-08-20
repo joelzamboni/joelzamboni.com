@@ -2,6 +2,7 @@
 title: 'The Inevitability of Regulation'
 date: 2025-07-20T00:00:00-04:00
 draft: false
+description: "Why regulation is inevitable in tech and politics. How democratic institutions can create transparent protocols instead of letting corporations control through permission systems."
 tags:
     - politics
     - future
@@ -17,6 +18,8 @@ tags:
 **How We Traded Democratic Rules for Corporate Permissions**
 
 Regulation is the landscape, not the weather. Whether you're building an app, writing a newsletter, selling crafts online, or just trying to share your work with the world, you will encounter rules that shape what's possible. If democratic institutions don't write them, the market's largest players will. The question isn't whether we'll have rules—it's who writes them, and whether they serve the many or the few.
+
+This becomes especially critical in our age of AI automation—as I explore in [The Great Simplification](/posts/the-great-simplification/), technological change is accelerating faster than democratic institutions can respond, creating a regulatory vacuum that corporations are eager to fill.
 
 ## The Terrain We All Navigate
 

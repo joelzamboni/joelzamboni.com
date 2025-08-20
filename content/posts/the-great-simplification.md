@@ -2,6 +2,7 @@
 title: 'The Great Simplification: How to Thrive When Most Jobs Become Prompts'
 date: 2025-05-15T00:00:00-04:00
 draft: false
+description: "How AI is automating knowledge work and what skills will remain valuable. Learn to thrive when most jobs become prompts by developing uniquely human capabilities."
 tags:
     - ai
     - work
@@ -15,6 +16,8 @@ tags:
 > - Success means recognizing this shift early and developing uniquely human capabilities rather than competing with AI on systematized tasks
 
 Every major technological shift creates two types of people: those who cling to the old ways and get swept aside, and those who recognize the change early and position themselves to ride the wave. We're at one of those inflection points now.
+
+If you're a parent wondering how to prepare teenagers for this transition, I've written a practical guide: [AI Skills for Teens: A Parent's Guide to What Actually Matters](/posts/ai-skills-for-teens-practical-guide/).
 
 We've built an entire economic system around the illusion of complexity. Universities churn out specialists, corporations create elaborate hierarchies of expertise, and we've convinced ourselves that professional work requires years of training and irreplaceable human insight. But what if most of what we call "skilled labor" is just systematized thinking that can be reduced to well-crafted prompts?
 

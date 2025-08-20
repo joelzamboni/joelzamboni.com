@@ -2,6 +2,7 @@
 title: "Truth vs. True"
 date: 2023-12-29T00:00:00-04:00
 draft: false
+description: "Understanding the difference between 'true' (provisional scientific knowledge) and 'Truth' (absolute certainty). Why this distinction matters for critical thinking."
 tags:
   - philosophy
 ---

@@ -2,6 +2,7 @@
 title: 'Why We Need AI Agents: The Answer is Still 42'
 date: 2025-06-29T00:00:00-04:00
 draft: false
+description: "Why specialized AI agents are better than general LLMs. Learn how context and domain expertise make AI more useful, inspired by Hitchhiker's Guide to the Galaxy."
 tags:
     - ai
     - automation
@@ -20,6 +21,8 @@ In Douglas Adams' "The Hitchhiker's Guide to the Galaxy," the supercomputer Deep
 Today's Large Language Models (LLMs) are remarkably similar to Deep Thought. They can provide answers to almost any question, but like "42," these answers often lack the crucial context needed to be truly useful. Ask ChatGPT or Claude about quantum mechanics, cooking recipes, and tax law in the same conversation, and you'll get responses—but are they the *right* responses for your specific situation?
 
 Here's where AI agents come in, and why they're not just the next buzzword but a fundamental evolution in how we interact with artificial intelligence.
+
+This specialization becomes especially important as we navigate [The Great Simplification](/posts/the-great-simplification/) where AI automates more knowledge work—specialized agents help us maintain human agency in specific domains rather than being replaced entirely.
 
 ## Why Context is Everything
 

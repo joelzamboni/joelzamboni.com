@@ -2,6 +2,7 @@
 title: 'Intelligence: the ability to create order intentionally'
 date: 2025-01-30T00:00:00-04:00
 draft: false
+description: "Exploring intelligence as the intentional creation of order. A philosophical examination of consciousness, divine intelligence, and the nature of organized complexity."
 tags:
     - religion
     - philosophy

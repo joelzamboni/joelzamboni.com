@@ -1,5 +1,5 @@
 ---
-baseURL: 'https://joelzamboni.com/'
+baseURL: 'https://joelzamboni.com'
 languageCode: 'en-us'
 title: 'Keep Learning'
 theme: 'PaperMod'
@@ -24,16 +24,33 @@ outputs:
 
 menu:
   main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 5
     - identifier: tags
       name: tags
       url: /tags/
       weight: 10
+    - identifier: contact
+      name: contact
+      url: /contact/
+      weight: 15
 
 params:
   defaultTheme: light
   disableThemeToggle: false
   env: production
   author: Joel Zamboni
+  description: "Thoughts on AI, philosophy, politics, and religion. Exploring the intersection of technology and human experience in an age of rapid change."
+  keywords: 
+    - "AI and future of work"
+    - "philosophy and consciousness" 
+    - "political systems"
+    - "religion and spirituality"
+    - "artificial intelligence"
+    - "automation"
+    - "human flourishing"
   sectionPagesMenu: main
   ShowReadingTime: true
   ShowShareButtons: true
@@ -42,6 +59,12 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
+  schema:
+    publisherType: "Person"
+    sameAs:
+      - "https://twitter.com/joelzamboni"
+      - "https://www.instagram.com/joelzamboni/"
+      - "https://www.youtube.com/@joelzamboni"
   homeInfoParams:
     Title: 
     Content: Welcome to my blog, which I do not always write about my business or work, but other hobbies like politics, philosophy, and religion! The publication dates are a reference for when the texts were made available, but I keep updating them as I continue to go deep into the subjects.

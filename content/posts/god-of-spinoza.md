@@ -2,6 +2,7 @@
 title: 'God of Spinoza'
 date: 2023-02-06T00:00:00-04:00
 draft: false
+description: "Exploring Baruch Spinoza's conception of God that influenced Einstein. A philosophical perspective on divinity, nature, and the universe as one unified reality."
 tags:
     - religion
 ---

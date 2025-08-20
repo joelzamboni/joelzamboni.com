@@ -2,6 +2,7 @@
 title: "AI Skills for Teens: A Parent's Guide to What Actually Matters"
 date: 2025-08-18T00:00:00-04:00
 draft: false
+description: "Essential AI skills every teenager needs for college and career success. A practical parent's guide with real exercises to develop problem-solving, agency, and human-AI collaboration."
 tags:
     - ai
     - future
@@ -18,6 +19,8 @@ This guide is for teens, but also for parents who want to understand what's wort
 Every parent worries about their kids' future. With AI changing everything, that worry has a new dimension: What if the skills we're teaching become obsolete? What if the careers we're preparing them for don't exist?
 
 Here's what I've learned: The skills that matter most aren't about beating AI. They're about becoming irreplaceably human while knowing how to use AI as a powerful tool. These are skills that compound over time and transfer across any field.
+
+For context on how AI is reshaping work more broadly, see [The Great Simplification: How to Thrive When Most Jobs Become Prompts](/posts/the-great-simplification/), and for a deeper look at why specialized AI tools matter, check out [Why We Need AI Agents: The Answer is Still 42](/posts/ai-agents-answer-42/).
 
 ## The Essential Five Skills
 

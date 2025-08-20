@@ -2,6 +2,7 @@
 title: 'Autocracies vs. Democracies'
 date: 2023-07-17T00:00:00-04:00
 draft: false
+description: "Comparing autocratic and democratic systems: rapid growth vs. sustainable development, short-term gains vs. long-term stability. Why democracy's chaos creates resilience."
 tags:
     - politics
 ---
