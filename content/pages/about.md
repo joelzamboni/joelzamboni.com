@@ -1,7 +1,7 @@
 ---
 title: 'About Joel Zamboni'
-date: 2025-08-20T00:00:00-04:00
 draft: false
+url: "/about/"
 description: "About Joel Zamboni - thoughts on AI, philosophy, politics, and religion. A personal blog exploring the intersection of technology and human experience."
 ---
 

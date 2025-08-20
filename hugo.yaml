@@ -21,8 +21,6 @@ outputs:
     - HTML
     - RSS
     - JSON
-  page:
-    - HTML
 
 menu:
   main:
@@ -40,7 +38,7 @@ menu:
       weight: 15
 
 params:
-  mainSections: ["posts"]
+  mainSections: ["posts", "pages"]
   defaultTheme: light
   disableThemeToggle: false
   env: production
