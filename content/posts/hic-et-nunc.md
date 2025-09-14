@@ -48,12 +48,13 @@ Let's draw a bright line around the minimum a decent society provides—no mysti
 * **Food**: so no one is bargaining with their conscience on an empty stomach.
 * **Shelter**: so a bad month doesn't become a bad life.
 * **Healthcare**: so the unlucky are not also the abandoned.
+* **Contribution**: so everyone who can work, does—because someone must teach, heal, build, and grow.
 
 These are not luxuries. They are the operating system that lets freedom and responsibility actually run. Without them, talk of "choice" is marketing copy.
 
 ## Giving Must Flow Both Ways
 
-Receiving is not the end of the story. A society of dignity is not one where some only give and others only take. **Everyone has something to offer, and everyone has something to receive.**
+Receiving is not the end of the story—contribution is not optional. A society of dignity is not one where some only give and others only take. **Everyone has something to offer, and everyone has something to receive.**
 
 From the top down, generosity should flow. And from the bottom up, gratitude and contribution—of time, energy, creativity, solidarity—should rise. This is not about forcing symmetry, but about cultivating reciprocity.
 
