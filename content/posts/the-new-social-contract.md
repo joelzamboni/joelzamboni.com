@@ -104,24 +104,35 @@ The garden metaphor becomes literal: we tend the human capacities that machines 
 
 ## The Measurement Problem
 
-Here's the hardest question: how do we measure contribution without creating a new priesthood of value judgment?
+Here's where people get stuck: "How do we measure a surgeon's contribution versus a janitor's? A surgeon's hour creates more value, right?"
 
-**Hours worked?** A surgeon's hour isn't the same as data entry.
-**Impact created?** Who decides what counts?
-**Resources generated?** We're back to pure capitalism.
+Wrong question.
 
-Maybe the answer is: we don't solve this perfectly. We keep it in tension.
+The right question is: **Why are we still creating janitors?**
 
-Some possibilities:
-- Minimum time contribution required from everyone capable
-- Quality matters for differentiation but not for baseline obligation
-- You can't buy your way out with money alone—you have to show up, participate, contribute your presence and energy to the commons
+Stop complaining about people. Start building better systems. This mentality—arguing about the relative value of surgeon versus janitor—is exactly what keeps our society stuck in the forest. We're debating which trees deserve more sunlight instead of planting the garden.
 
-Study counts. Raising kids counts. Care work counts. Creating art counts. Building community counts. But you have to be engaged with something beyond your own consumption.
+The only universal human currency is **time**. We all get the same 24 hours. When you invest your time in something beyond personal consumption—whether that's ten years studying to become a surgeon or cleaning a hospital room so surgeries can happen safely—you're contributing your finite human life to the commons.
 
-The tension between quantity and quality isn't a bug—it's a feature. If you only count hours, people game it with meaningless busywork. If you only count quality, elites control the definition and exclude everyone else. So you need both in constant negotiation.
+The surgeon's impact is narrow but deep. The janitor's work is broad but critical. Without clean operating rooms, surgical skill means nothing. Both serve the patient's healing.
 
-This is uncomfortable. Good. Comfort is what got us into this mess—where some people contribute nothing while extracting everything, and others contribute everything while barely surviving.
+But here's the thing: we shouldn't need permanent janitors. We should automate repetitive physical work and elevate humans to engineering, oversight, and validation roles. Instead of janitors, we want clean-room specialists who design and validate automated cleaning systems. Instead of data entry clerks, we want people who teach AI systems and verify their outputs.
+
+**The goal is to create a garden where human time goes toward uniquely human contributions**: complex problem-solving, creative work, care and relationship-building, teaching, innovation, maintaining context that machines miss.
+
+This raises the hard question: what motivates someone to invest ten years becoming an excellent surgeon when their basic needs are already guaranteed?
+
+It can't just be altruism. It has to be:
+- **Purpose**: The work matters to something larger than yourself
+- **Recognition**: Genuine respect and status for difficult expertise
+- **Agency**: Real choice in how you contribute your time
+- **Mastery**: When survival isn't consuming all your energy, you're free to pursue excellence
+
+This requires trusting that people want to matter, want to be excellent, want to contribute meaningfully—when they're not desperate. That's a bet on human nature that the right doesn't believe in and the left often absolves people from proving.
+
+But it's the only bet worth making. The alternative is what we have now: arguing about which humans deserve dignity while maintaining systems that waste human potential on work machines should do.
+
+Stop complaining about people. Create the garden.
 
 ## The Patent Problem
 
