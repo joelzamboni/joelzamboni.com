@@ -29,6 +29,14 @@ Real strength would mean letting people be themselves. Real freedom would mean t
 
 And their economic solution? Let people starve in the streets of the richest civilization in human history. Tie healthcare to employment so people stay trapped in bad situations. Force single mothers to choose between caring for sick children and keeping their jobs. This isn't strength—it's cruelty masquerading as virtue.
 
+Here's the deeper hypocrisy: the right claims they don't need social obligations because they have *values*—specifically Christian values. They argue that personal morality and faith replace the need for systemic guarantees.
+
+But look at what Jesus actually taught: heal the sick, feed the hungry, shelter the homeless, care for "the least of these." Christianity isn't subtle about this. It's the entire ethical core of the religion.
+
+Yet the modern right opposes guaranteed healthcare, opposes ensuring people have food and shelter, opposes helping refugees and immigrants. They've taken a religion whose founder explicitly commanded caring for the vulnerable and turned it into a justification for not doing exactly that.
+
+If your theory is "we don't need rules because we have values," then you actually have to *follow those values*. You can't claim Christian morality while opposing every policy that would enact Christian teaching. That's not principled conservatism—it's using religion as a shield for greed.
+
 The right talks about the jungle but can't handle the basic diversity that actually exists in nature. The left talks about community but builds systems that absolve people of obligation to that community.
 
 We have to be better than living in the forest. But we also have to be stronger than what either side offers.
