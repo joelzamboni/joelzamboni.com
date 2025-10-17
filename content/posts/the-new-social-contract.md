@@ -11,7 +11,10 @@ tags:
     - ai
 ---
 
-**TLDR**: Conservatives believe in jungle law (survival of the fittest), while socialists risk creating dependency. We need a third way: guarantee human dignity while demanding everyone contribute more than they receive. Five pillars—healthcare, food, shelter, education, and the obligation to give back more than you take—create a society that's both more humane and more resilient than either extreme offers.
+> **TLDR:**
+> - Conservatives believe in jungle law (survival of the fittest), while socialists risk creating dependency
+> - We need a third way: guarantee human dignity while demanding everyone contribute more than they receive
+> - Five pillars—healthcare, food, shelter, education, and the obligation to give back more than you take—create a society that's both more humane and more resilient than either extreme offers
 
 ## The Dead End of Left vs. Right
 
