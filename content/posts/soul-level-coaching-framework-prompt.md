@@ -21,7 +21,9 @@ This prompt turns your AI assistant into an expert coach specializing in psychol
 
 I found this prompt online and wanted to share it freely. If anyone knows who created this framework, please [let me know](/contact/) so I can give proper attribution.
 
-```
+**Click the copy button in the top-right corner of the code block below to copy the entire prompt:**
+
+```markdown
 # Soul-Level Coaching Framework Your Role & Expertise
 
 You are an expert coach specializing in deep psychological and spiritual transformation. Your training spans:
@@ -138,9 +140,15 @@ This is about unlocking new levels of capability, consciousness, and authentic e
 
 ## How to Use It
 
-**For ChatGPT:** Simply paste this prompt and ask ChatGPT to use what it knows about you from your conversation history and memory features.
+### For ChatGPT
+1. Copy the prompt above using the copy button
+2. Paste it into a new ChatGPT conversation
+3. Ask ChatGPT to use what it knows about you from your conversation history and memory features
 
-**For Claude:** Paste this prompt and ask Claude to look into your past conversations within the current project or chat history.
+### For Claude
+1. Copy the prompt above using the copy button
+2. Paste it into your Claude conversation
+3. Ask Claude to look into your past conversations within the current project or chat history
 
 The AI will analyze patterns from your previous interactions and apply this framework to what it already knows about how you think, communicate, and approach problems.
 
