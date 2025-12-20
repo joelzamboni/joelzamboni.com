@@ -107,7 +107,7 @@ But Virginia's Attorney General Jason Miyares has filed no lawsuits. Issued no s
 
 I didn't just wait for Virginia to act. I filed a complaint with Attorney General Miyares' office documenting the violations in my agreement. I have his office's response letter. They declined to pursue the matter.
 
-Let that sink in. A citizen brings documented violations of Virginia law directly to the Attorney General - violations visible in the contract itself, violations of a law his office is supposed to enforce - and nothing. No investigation. No action. Not even a referral.
+Let that sink in. A Virginia business owner brings documented violations of Virginia law directly to the Attorney General - violations visible in the contract itself, violations of a law his office is supposed to enforce - and nothing. No investigation. No action. Not even a referral.
 
 New York's Letitia James didn't wait for perfect cases. She investigated an industry, found systematic violations, and extracted a billion dollars for small businesses. Jason Miyares received a complaint with the violations spelled out and did nothing.
 
