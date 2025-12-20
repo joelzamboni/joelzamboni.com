@@ -22,8 +22,6 @@ tags:
 
 In June 2023, I signed an 18-page merchant cash advance agreement in six minutes and forty-three seconds. DocuSign timestamps everything.
 
-Twenty-nine minutes later, the provider's internal system classified me as **"RP High Risk."** They never told me that.
-
 Two years later, I've been through three courts, had a heart procedure, lost clients, and watched my case get dismissed on procedural technicalities. No Virginia court has ruled on whether the agreement I signed violates Virginia law.
 
 Meanwhile, in New York, the same industry just paid **$1 billion** in settlements.
@@ -289,6 +287,7 @@ Virginia's Attorney General could do the same. The question is whether anyone wi
 Governor Youngkin vetoed SB 1252 - the bill that would have closed the loopholes protecting predatory lenders. The bill passed the Senate 38-0. Unanimous bipartisan support.
 
 Contact your state legislators. Ask them:
+
 - Why did Governor Youngkin veto SB 1252?
 - Will you override the veto or reintroduce the bill?
 - What are you doing to protect Virginia small businesses from 820% interest rates?
