@@ -331,7 +331,7 @@ Don't make it easy for them.
 
 ---
 
-*Joel Zamboni is a technology consultant based in Northern Virginia. He writes about technology, philosophy, and - as it turns out - predatory lending and institutional failure. If you've had a similar experience with a merchant cash advance provider in Virginia, he'd like to hear from you: <joel.zamboni@webera.com>*
+*Joel Zamboni is a technology consultant based in Northern Virginia. He writes about technology, philosophy, and - as it turns out - predatory lending and institutional failure.*
 
 ---
 
