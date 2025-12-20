@@ -117,6 +117,24 @@ When I raised three documented violations of Virginia law in my own case - viola
 
 New York fought back. New Jersey fought back. Virginia passed a law and did nothing.
 
+### The Veto That Protected Predators
+
+It gets worse.
+
+In 2025, the Virginia legislature tried to fix this. Senate Bill 1252 would have closed the loopholes that let MCA providers evade usury laws. It explicitly targeted "devices, subterfuges, or pretenses" used to disguise loans as something else - exactly what happened to me.
+
+The bill passed the Senate 38-0. Unanimous. Republicans and Democrats agreed: these practices needed to stop.
+
+**Governor Glenn Youngkin vetoed it.**
+
+His reasoning? The bill was too "vague and expansive" and might capture "legitimate financial activities" and hinder "access to credit."
+
+Let me translate: the Governor decided that protecting the MCA industry's ability to charge 820% interest rates was more important than protecting Virginia small businesses from predatory lending.
+
+This wasn't bad luck. This wasn't a gap in the law. This was a policy choice. The legislature saw the problem, passed a fix with unanimous support, and the Governor killed it.
+
+I'm not just a victim of a predatory lender. I'm a victim of that veto.
+
 ---
 
 ## How the MCA Debt Trap Works
@@ -265,6 +283,17 @@ Virginia passed a law in 2022. It's been three years. Zero enforcement actions.
 New York's Attorney General Letitia James didn't wait for perfect cases. She investigated an industry, found systematic violations, and took action.
 
 Virginia's Attorney General could do the same. The question is whether anyone will demand it.
+
+### Demand Legislative Action
+
+Governor Youngkin vetoed SB 1252 - the bill that would have closed the loopholes protecting predatory lenders. The bill passed the Senate 38-0. Unanimous bipartisan support.
+
+Contact your state legislators. Ask them:
+- Why did Governor Youngkin veto SB 1252?
+- Will you override the veto or reintroduce the bill?
+- What are you doing to protect Virginia small businesses from 820% interest rates?
+
+Find your Virginia legislators: [Virginia General Assembly](https://virginiageneralassembly.gov/)
 
 ### Share This Story
 
